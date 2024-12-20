@@ -1,7 +1,5 @@
 from flask import Flask
-import python-1
->>>>>>> 071e34ddf0b7699e565c236f8702d5ec408e09f3
-
+import python-2
 app = Flask(__name__)
 
 @app.route("/")
